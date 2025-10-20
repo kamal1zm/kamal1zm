@@ -1,5 +1,7 @@
 ## Hi there 👋
+### 🐍 Katkı Yılanı Animasyonu 🐍
 
+![GitHub Contrib Snake](https://raw.githubusercontent.com/kamal1zm/github-contribution-snake/output/github-snake.gif)
 <!--
 **kamal1zm/kamal1zm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
