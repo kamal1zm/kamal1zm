@@ -1,6 +1,6 @@
 # Merhaba Dünya! Ben Kamal! ✨👋
 
-Gelişim yolculuğumdaki kod satırlarıyla büyüyen bir [Öğrenci/Geliştirici Adayı/Yazılımcı] olarak, **yenilikçi çözümler** ve **teknoloji dünyasının derinlikleri** beni heyecanlandırıyor. Özellikle **Discord Bot geliştirme 🤖**, **Modern Web Geliştirme (HTML, CSS, JavaScript) 🌐** ve **Veri Odaklı Python Uygulamaları 🐍** alanlarına tutkuyla bağlıyım.
+Gelişim yolculuğumdaki kod satırlarıyla büyüyen bir Yazılımcı olarak, **yenilikçi çözümler** ve **teknoloji dünyasının derinlikleri** beni heyecanlandırıyor. Özellikle **Discord Bot geliştirme 🤖**, **Modern Web Geliştirme (HTML, CSS, JavaScript) 🌐** ve **Veri Odaklı Python Uygulamaları 🐍** alanlarına tutkuyla bağlıyım.
 
 Her yeni proje, benim için bir öğrenme serüveni ve kendimi daha da geliştirme fırsatı! 🚀
 
